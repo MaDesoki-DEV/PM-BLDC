@@ -34,3 +34,4 @@ codegen/
 *.dwo
 *.hex
 *.out
+/Subsystems/Battery/Required_Software
